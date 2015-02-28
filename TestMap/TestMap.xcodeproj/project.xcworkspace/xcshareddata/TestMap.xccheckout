@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>96D2A9C3-4D14-494D-B91E-F8E9D199780E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TestMap</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>757E083AFCC9F368E8AC066A27CB3C9D70AA607A</key>
+		<string>https://git.oschina.net/mokong/mapNavigation.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TestMap/TestMap.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>757E083AFCC9F368E8AC066A27CB3C9D70AA607A</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://git.oschina.net/mokong/mapNavigation.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>757E083AFCC9F368E8AC066A27CB3C9D70AA607A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>757E083AFCC9F368E8AC066A27CB3C9D70AA607A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>mapNavigation</string>
+		</dict>
+	</array>
+</dict>
+</plist>
